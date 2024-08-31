@@ -73,17 +73,17 @@ yourself:
 
         <section class="career">
             <h2>Job Responsibilities</h2>
-            <p>[Provide tours to prosepctive students and their families]</p>
+            <p>[Provide tours to prospective students and their families]</p>
         </section>
 
         <section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
-            <p>[Listening to music, watching sports (mainly track and field and basketball, reading business aviation articles]</p>
+            <p>[Listening to music, watching sports and reading business aviation articles]</p>
         </section>
 
         <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[To have a strong academic background for a career in business aviation hopefully as a charter broker]</p>
+            <p>[To have a strong academic background for a career in business aviation]</p>
         </section>
 
         <section class="course">
@@ -93,7 +93,7 @@ yourself:
 
         <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[I am an international student from Trinidad who has been all over the world. Last year I travelled to Tanzania (for the Safari), Iceland and Vancouver. This year so far has been London and back home to Trinidad during spring break.]</p>
+            <p>[I am an international student from Trinid who has been all over the World. Last year I travelled to Tanzania (spent 8 days in the Safari, Iceland and Vancouver. This year, so far, I've been to London and back home to Trinidad for Spring Break]</p>
         </section>
     </div>
 </body>
