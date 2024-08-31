@@ -66,34 +66,34 @@ yourself:
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: [Your Full Name]</h1>
-            <p>Preferred Name: [Your Preferred Name]</p>
-            <p>Current/Recent Job Title: [Your Job Title]</p>
+            <h1>Your Name: [Gyasi Boisson]</h1>
+            <p>Preferred Name: [Gyasi]</p>
+            <p>Current/Recent Job Title: [Student Ambassador]</p>
         </header>
 
         <section class="career">
             <h2>Job Responsibilities</h2>
-            <p>[Summary of your current or most recent job responsibilities]</p>
+            <p>[Provide tours to prosepctive students and their families]</p>
         </section>
 
         <section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
-            <p>[Your hobbies or special interests]</p>
+            <p>[Listening to music, watching sports (mainly track and field and basketball, reading business aviation articles]</p>
         </section>
 
         <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[Your reasons for pursuing the degree]</p>
+            <p>[To have a strong academic background for a career in business aviation hopefully as a charter broker]</p>
         </section>
 
         <section class="course">
             <h2>Reasons for Taking This Course</h2>
-            <p>[Your reasons for taking this course]</p>
+            <p>[It is a requirement]</p>
         </section>
 
         <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[A fun fact about yourself]</p>
+            <p>[I am an international student from Trinidad who has been all over the world. Last year I travelled to Tanzania (for the Safari), Iceland and Vancouver. This year so far has been London and back home to Trinidad during spring break.]</p>
         </section>
     </div>
 </body>
